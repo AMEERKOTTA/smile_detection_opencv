@@ -1,0 +1,38 @@
+AUTO CAPTURE SELFY BY DETECTING SMILE
+=====================================
+
+This is a Simple Machine Learning Project Using OpenCV
+
+OpenCV
+======
+
++ OpenCV is an open-source library for computer vision with a focus of real time 
+  Applications
+
++ OpenCV mainly focus on VideoCapturing, VideoProcessing, Image Processing and 
+  analysis.
+
++ OpenCV has many built in functions
+
+Steps for Projects
+==================
+
+Download "haarcascade xml" files
+
++ haarcascade_frontalface_default.xml
++ haarcascade_smile.xml
+
+Save those in particular folders.
+
+haar Cascade:
+=============
+It is Machine Learning Object Detection Algorithm used to identify objects in
+an image or video.
+
+Algorithm Steps
+===============
+
+1. Haar Feature Selection
+2. Creating Integral Image 
+3. Adaboost Training 
+4. Cascading Classifiers
